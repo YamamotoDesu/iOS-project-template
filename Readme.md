@@ -1,4 +1,4 @@
-## iOS Project Template
+# **[iOS Project Template](https://medium.com/flawless-app-stories/ios-project-best-practices-and-tools-c46135b8116d)** 
 
 A template to jumpstart your next iOS project integrating best practices and tools.
 Supports Xcode 10, Swift 4.2
